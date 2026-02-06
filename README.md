@@ -71,6 +71,7 @@ multimodal-rag-search-engine/
 ├── data/
 ├── requirements.txt
 └── README.md
+
 ---
 
 ## Future Enhancements
