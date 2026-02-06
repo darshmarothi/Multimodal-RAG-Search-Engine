@@ -60,18 +60,17 @@ The system follows a standard RAG pipeline:
 ## Project Structure
 multimodal-rag-search-engine/
 ├── backend/
-│ ├── ingestion.py
-│ ├── chunking.py
-│ ├── vector_store.py
-│ ├── rag_pipeline.py
-│ └── main.py
+│   ├── ingestion.py
+│   ├── chunking.py
+│   ├── vector_store.py
+│   ├── rag_pipeline.py
+│   └── main.py
 ├── frontend/
-│ ├── pages/
-│ └── components/
+│   ├── pages/
+│   └── components/
 ├── data/
 ├── requirements.txt
-└── README.md 
-
+└── README.me
 
 ---
 
