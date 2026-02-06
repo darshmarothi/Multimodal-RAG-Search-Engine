@@ -70,8 +70,7 @@ multimodal-rag-search-engine/
 │   └── components/
 ├── data/
 ├── requirements.txt
-└── README.me
-
+└── README.md
 ---
 
 ## Future Enhancements
