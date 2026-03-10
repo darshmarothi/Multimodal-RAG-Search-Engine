@@ -305,7 +305,6 @@ Implemented using vector embeddings and FAISS/Pinecone.
 # Author
 
 Darsh Marothi
-Integrated M.Tech – Computer Science (Data Science)
-Vellore Institute of Technology
+
 
 ---
