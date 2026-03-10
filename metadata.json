@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VisionRAG: Multimodal PDF & Image Search",
+  "description": "A sophisticated RAG (Retrieval-Augmented Generation) search engine that processes PDF text chunks and uploaded images to answer complex multimodal queries using Gemini 1.5.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
